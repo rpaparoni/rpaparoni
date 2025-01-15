@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Ricardo, pero tu me puedes llamar cuando quieras 🤠
 
 Soy un/a [tu profesión o título] apasionado/a por [tu campo de interés]. Me encanta trabajar en proyectos que [breve descripción de lo que te motiva]. Estoy en constante aprendizaje y siempre buscando mejorar mis habilidades en [tecnologías o lenguajes que usas].
 
@@ -28,5 +28,5 @@ Soy un/a [tu profesión o título] apasionado/a por [tu campo de interés]. Me e
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuUsuarioGitHub&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rpaparoni&show_icons=true&theme=radical)
 
