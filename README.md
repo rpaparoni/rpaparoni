@@ -5,7 +5,6 @@ Estudiante de 42 Madrid
 ## 📫 Cómo contactarme
 
 - Correo: paparoniricardo@gmail.com
-- LinkedIn: [tuPerfilLinkedIn](https://linkedin.com/in/tuPerfilLinkedIn)
 
 ## 📊 Estadísticas de GitHub
 
