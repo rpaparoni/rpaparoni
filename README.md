@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hola, soy [Tu Nombre] 👋
 
-<!--
-**rpaparoni/rpaparoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un/a [tu profesión o título] apasionado/a por [tu campo de interés]. Me encanta trabajar en proyectos que [breve descripción de lo que te motiva]. Estoy en constante aprendizaje y siempre buscando mejorar mis habilidades en [tecnologías o lenguajes que usas].
 
-Here are some ideas to get you started:
+## 🌱 Actualmente estoy aprendiendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Tecnología o Lenguaje 1]
+- [Tecnología o Lenguaje 2]
+- [Tecnología o Lenguaje 3]
+
+## 🚀 Proyectos destacados
+
+- [Nombre del Proyecto 1](enlace al proyecto) - Breve descripción del proyecto.
+- [Nombre del Proyecto 2](enlace al proyecto) - Breve descripción del proyecto.
+
+## 🛠 Tecnologías y herramientas
+
+- **Lenguajes**: [Lenguaje 1], [Lenguaje 2], [Lenguaje 3]
+- **Frameworks**: [Framework 1], [Framework 2]
+- **Bases de Datos**: [Base de datos 1], [Base de datos 2]
+- **Herramientas**: [Herramienta 1], [Herramienta 2]
+
+## 📫 Cómo contactarme
+
+- Correo: [tu correo]
+- Twitter: [@tuUsuarioTwitter](https://twitter.com/tuUsuarioTwitter)
+- LinkedIn: [tuPerfilLinkedIn](https://linkedin.com/in/tuPerfilLinkedIn)
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuUsuarioGitHub&show_icons=true&theme=radical)
+
