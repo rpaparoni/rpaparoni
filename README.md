@@ -10,7 +10,7 @@ Estudiante de 42 Madrid
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rpaparoni&show_icons=true&theme=radical)
 
-[![42 Profile](https://badge42.vercel.app/api/v2/cldx90e0j012301mhp3rxld5t/stats?cursusId=21&coalitionId=48)](https://profile.intra.42.fr/users/rpaparon)
+[![rpaparon's 42 stats](https://badge.mediaplus.ma/binary/rpaparon?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 
 
