@@ -1,12 +1,8 @@
 # Hey There!! My name it`s Ricardo 🕷️
 
-<span style="font-size:30; font-family: 'Arial', sans-serif; color: #003366;">
   Currently a student of 42 Madrid. 💾
-</span>
-
-<span style="font-size:30; font-family: 'Arial', sans-serif; color: #003366;">
+  
   Focus on being a better developer every day!! 🏋
-</span>
 
 ## 📊 My stats:
 
