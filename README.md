@@ -6,7 +6,7 @@ Focus on be a better developer every day!! 🏋
 
 ## 📊 My stats:
 
-[![rpaparon's 42 stats](https://badge.mediaplus.ma/binary/rpaparon?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42) 
+[![rpaparon's 42 stats](https://badge.mediaplus.ma/binary/rpaparon?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=rpaparoni&show_icons=true&theme=github_dark&hide_title=true&count_private=true&hide_border=true)](https://github.com/rpaparoni)
 
 ## 📫 How you can find me:
