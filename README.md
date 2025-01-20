@@ -13,10 +13,10 @@ Focus on be a better developer every day!! 🏋
 
 <div>
   <a href="https://www.linkedin.com/in/ricardo-paparoni/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" width="200"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" width="150" height="40"/>
   </a>
   <a href="mailto:paparoniricardo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="200"/>
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="150" height="40"/>
   </a>
 </div>
 
