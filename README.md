@@ -11,9 +11,14 @@ Focus on be a better developer every day!! 🏋
 
 ## 📫 How you can find me:
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-paparoni/)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paparoniricardo@gmail.com)
-
+<div>
+  <a href="https://www.linkedin.com/in/ricardo-paparoni/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" width="200"/>
+  </a>
+  <a href="mailto:paparoniricardo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="200"/>
+  </a>
+</div>
 
 
 
