@@ -1,4 +1,4 @@
-# Hey There!! My name it`s Ricardo 🕷️
+# Hey There!! My name is Ricardo 🕷️
 
   Currently a student of 42 Madrid. 💾
   
