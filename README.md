@@ -6,8 +6,7 @@
 
 ## 📊 My stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rpaparoni&show_icons=true&theme=github_dark&hide_title=true&count_private=true&hide_border=true" style="display:inline-block;" />
-  <img src="charizard2.gif" alt="Charizard GIF" style="display:inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rpaparoni&show_icons=true&theme=github_dark&hide_title=true&count_private=true&hide_border=true" style="display:inline-block;" /> <img src="charizard2.gif" alt="Charizard GIF" style="display:inline-block;" />
 </p>
 
 
