@@ -5,9 +5,20 @@
   Focus on being a better developer every day!! 🏋
 
 ## 📊 My stats:
-<p align="center" style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rpaparoni&show_icons=true&theme=github_dark&hide_title=true&count_private=true&hide_border=true" style="margin-right: 10px;" />
-  <img src="charizard2.gif" alt="Charizard GIF" />
+<p align="center">
+  <div
+    <tr>
+      <td>
+        <p align="led==r">
+          <img src="https://github-readme-stats.vercel.app/api?username=rpaparoni&show_icons=true&theme=github_dark&hide_title=true&count_private=true&hide_border=true)](https://github.com/rpaparoni" />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img src="charizard2.gif" alt="Charizard GIF" />
+        </p>
+      </td>
+    </tr>
 </p>
 
 <h3 align="left">🪖💻Languages and Tools:</h3>
