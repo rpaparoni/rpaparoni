@@ -5,8 +5,6 @@
   Focus on being a better developer every day!! 🏋
 
 ## 📊 My stats:
-
-[![rpaparon's 42 stats](https://badge.mediaplus.ma/binary/rpaparon?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/rpaparon)  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rpaparoni&show_icons=true&theme=github_dark&hide_title=true&count_private=true&hide_border=true" style="display:inline-block;" />
   <img src="charizard2.gif" alt="Charizard GIF" style="display:inline-block;" />
