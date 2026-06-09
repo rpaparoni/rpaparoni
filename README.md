@@ -10,7 +10,7 @@
     <tr>
       <td>
         <p align="center">
-          <img [![<ripaparo>'s 42 stats](https://badge.mediaplus.ma/darkgrey/ripaparo)](https://github.com/oakoudad/badge42) />
+          <img [![ripaparo's 42 stats](https://badge.mediaplus.ma/darkgrey/ripaparo)](https://github.com/oakoudad/badge42) />
         </p>
       </td>
       <td>
