@@ -10,7 +10,7 @@
     <tr>
       <td>
         <p align="center">
-          <img src="https://github-readme-stats.vercel.app/api?username=rpaparoni&show_icons=true&theme=github_dark&hide_title=true&count_private=true&hide_border=true)](https://github.com/rpaparoni" />
+          <img [![<ripaparo>'s 42 stats](https://badge.mediaplus.ma/darkgrey/ripaparo)](https://github.com/oakoudad/badge42) />
         </p>
       </td>
       <td>
